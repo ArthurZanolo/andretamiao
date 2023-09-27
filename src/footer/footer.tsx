@@ -1,8 +1,6 @@
 
 import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, LastContainerTextContainer, Logo2, MapsIcon, SocialContainer, TiktokIcon, WhatsappIcon } from "./styles";
-import emailicon from "../assets/emailicon.png"
-import phoneicon from "../assets/phoneicon.jpg"
-import localicon from "../assets/mapsicon.png"
+
 
 
 function Footer() {
