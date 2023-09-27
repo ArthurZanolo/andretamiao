@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import zap from "../assets/7c81bd56-d313-48fc-8857-426e4f05d713.jpg"
-import Fachada from "../assets/laptop-wallet-iphone-pen-wallpaper-preview.jpg"
 import civil1 from "../assets/civil.jpg"
 import civil2 from "../assets/civil2.jpg"
 

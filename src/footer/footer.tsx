@@ -1,5 +1,5 @@
 
-import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, LastContainerTextContainer, Logo2, MapsIcon, SocialContainer, TiktokIcon, WhatsappIcon } from "./styles";
+import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, Logo2, MapsIcon, SocialContainer, TiktokIcon, WhatsappIcon } from "./styles";
 
 
 
