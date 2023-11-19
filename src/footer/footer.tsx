@@ -1,5 +1,6 @@
 
-import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, Logo2, MapsIcon, SocialContainer, TiktokIcon, WhatsappIcon } from "./styles";
+import { CustomSpan } from "../Home/styles";
+import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, Logo2, MapsIcon, SocialContainer, TextSpan, TiktokIcon, WhatsappIcon } from "./styles";
 
 
 
@@ -37,6 +38,7 @@ function Footer() {
 
     return (
         <Container id="contato">
+            <TextSpan>Entre em contato abaixo:</TextSpan>
             <SocialContainer>
                 <FacebookIcon onClick={handleFacebookClick}></FacebookIcon>
                 <InstagramIcon onClick={handleInstagramClick}></InstagramIcon>

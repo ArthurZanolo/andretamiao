@@ -26,6 +26,10 @@ export const GuiasContainer = styled.div`
     column-gap: 30px;
     row-gap: 50px;
    
+    @media (max-width: 768px) {
+        grid-template-columns: repeat(1, 1fr);
+        
+}
 `;
 
 
@@ -35,9 +39,14 @@ export const AndréTamião = styled.div`
     color: #fff;
     transition: .5s;
     cursor: pointer;
+    text-align: center;
     &:hover {
         color: red;
     }
+
+    @media (max-width: 768px) {
+        display: none;
+}
 `;
 
 export const Logo = styled.div`

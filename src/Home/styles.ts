@@ -2,7 +2,21 @@ import styled from "styled-components";
 import zap from "../assets/7c81bd56-d313-48fc-8857-426e4f05d713.jpg"
 import civil1 from "../assets/civil.jpg"
 import civil2 from "../assets/civil2.jpg"
-
+import direitocivel from "../assets/civil.png"
+import direitoconsumidor from "../assets/consumidor.png"
+import criminal from "../assets/criminal.png"
+import previdenciario from "../assets/previdenciario.png"
+import whatsapp from "../assets/whatsapp.png"
+import loas from "../assets/BPCLOASIcon.png"
+import pensao from "../assets/pensaomorteicon.png"
+import auxilio from "../assets/auxilio.png"
+import revisao from "../assets/revisao.png"
+import policial from "../assets/policial.png"
+import folha from "../assets/folha.png"
+import violencia from "../assets/violência.png"
+import vendacasada from "../assets/vendacasada.png"
+import recusa from "../assets/recusa.png"
+import cartao from "../assets/cartao.png"
 
 export const Foto = styled.div`
     width:100%;
@@ -19,6 +33,36 @@ export const Foto = styled.div`
     border-style: none;
     box-sizing: border-box;
     margin: 0;
+
+    @media (max-width: 768px) {
+    height: 400px;
+    position: relative;
+    background-attachment: scroll;
+  }
+`;
+
+export const TamiaoCard = styled.div`
+    width: 360px;
+    height: 750px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    display: grid;
+    grid-template-columns: repeat(1, 3fr);
+    gap: 0;
+    justify-items: center;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: black;
+    transition: .7s;
+
+    &:hover {
+        transform: scale(1.05);
+      
+    }
+
 `;
 
 export const Container = styled.div`
@@ -29,8 +73,9 @@ export const Container = styled.div`
 
 
 export const NomeContainer = styled.div`
-    width: auto;
+    width: 100px;
     height: auto;
+    align-self: center;
     font-size: 32px;
     font-weight: bold;
     color: #fff;
@@ -46,15 +91,32 @@ export const InfoContainer = styled.div`
     width: 100%;
     height: 600px;
     background-color: #555555;
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    align-items: center;
+    justify-content: center;
+    
+    @media (max-width: 768px) {
+    justify-self: center;
+    height: 400px;
+    grid-template-columns: repeat(1, 2fr);
+  }
 `;
 
 export const FotoInfo = styled.div`
     width: 100%;
     height: auto;
     display: flex;
-    background-color: #555555;
     align-items: center;
     justify-content: center;
+    margin-bottom: 50px;
+
+    @media (max-width: 768px) {
+
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    margin: 0 auto;
+  }
 `;
 
 export const FotoTamiao = styled.div`
@@ -62,7 +124,7 @@ export const FotoTamiao = styled.div`
     height: 400px;
     color: #fff;
     background-image: url(${zap});
-    margin-right: 400px;
+    margin-right: 180px;
     border-radius: 50%;
     transition: transform .5s;
     margin-top: 40px;
@@ -71,6 +133,14 @@ export const FotoTamiao = styled.div`
     &:hover {
         transform: scale(1.1);
     }
+
+    @media (max-width: 768px) {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+
+  }
+    
 `;
 
 export const TextoTamiao = styled.div`
@@ -79,7 +149,13 @@ export const TextoTamiao = styled.div`
     font-size: 22px;
     font-weight: bold;
     color: #fff;
-
+    @media (max-width: 768px) {
+    height: 160px;
+  }
+  @media (max-width: 768px) {
+        margin: 0 auto;
+        padding-top: 3%;
+}
 `;
 
 export const ServiceContainer = styled.div`
@@ -93,6 +169,11 @@ export const ServiceContainer = styled.div`
     justify-content: center;
     align-items: center;
     display: grid;
+
+    @media (max-width: 768px) {
+    position: relative;
+    background-attachment: scroll;
+}
 `;
 
 export const ServiceTitleContainer = styled.div`
@@ -103,38 +184,66 @@ export const ServiceTitleContainer = styled.div`
     justify-self: center;
     padding-top: 50px;
     border-radius: 10%;
+
+    @media (max-width: 768px) {
+     width: 140px;
+     height: auto;
+     padding-top: 25px;
+}
 `;
 
 export const ServiceTitle = styled.div`
     font-size: 44px;
     font-weight: bold;
     color: #fff;
+
+    @media (max-width: 768px) {
+       font-size: 36px;
+    
+}
 `;
 
 export const CardsContainers = styled.div`
     width: 1700px;
-    height: 900px;
+    height: 730px;
     //border: 6px solid #fff;
     align-items: center;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     column-gap: 30px;
     row-gap: 50px;
+
+    @media (max-width: 768px) {
+        margin-top: 40px;
+        width: 100%;
+        height: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 4fr);
+        column-gap: 20px;
+        row-gap: 20px;
+}
 `;
 
 export const ServiceName = styled.div`
     width: auto;
     height: auto;
-    font-size: 32px;
+    font-size: 44px;
     font-weight: bold;
     color: #fff;
-    transition: .7s;
+
+    @media (max-width: 768px) {
+        font-size: 28px;
+
+}
+    
 `;
 
 export const ServiceCard = styled.div`
     width: 360px;
-    height: 750px;
-    border: 8px solid #fff;
+    height: 360px;
+    background-color: #555555;
+    border-radius: 2%;
+    //border: 5px solid #fff;
     font-size: 22px;
     font-weight: bold;
     color: #fff;
@@ -147,12 +256,331 @@ export const ServiceCard = styled.div`
 
     &:hover {
         transform: scale(1.05);
-        background-color: black;
       
         ${ServiceName} {
 
         }
     }
+
+    @media (max-width: 768px) {
+        width: 300px;
+        height: 220px;
+        font-size: 18px;
+        margin: 0;
+        margin-bottom: 0;
+}
+    
 `;
 
+export const FotoTamiao2 = styled.div`
+    width: 300px;
+    height: 300px;
+    border: 4px solid #fff;
+    background-image: url(${zap});
+    transition: transform .5s;
+    margin-top: 40px;
+    background-position: 0%, 0%;
+    background-size: cover;
+`;
 
+export const CustomSpan = styled.div`
+    width: auto;
+    height: auto;
+    font-size: 27px;
+    font-weight: bold;
+    color: #fff;
+    justify-self: center;
+    text-align: center;
+`;
+
+export const SaibaMais = styled.button`
+    background-color: #ff0000;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 60px;
+    width: 120px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+    @media (max-width: 768px) {
+        width: 120px;
+        height: 40px;
+        font-size: 18px;
+}
+`;
+
+export const ModalContainer = styled.div`
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+`;
+
+export const ModalContent = styled.div`
+    width: 1600px;
+    height: 900px;
+    background-color: #555555;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    justify-items: center;
+`;
+
+export const ModalCloseButton = styled.button`
+    background-color: #ff0000;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 60px;
+    width: 120px;
+    border: none;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    align-self: center;
+    position: absolute;
+    margin-top: 800px;
+`;
+
+export const ModalContentText = styled.span`
+    text-align: left;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 4%;
+    margin-left: 35px;
+    
+`;
+
+export const CivelIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${direitocivel});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const ConsumidorIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${direitoconsumidor});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const CriminalIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${criminal});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const PrevidenciarioIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${previdenciario});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const ModalCardsContainer = styled.div`
+    width: 1500px;
+    height: auto;
+   // background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+    row-gap: 50px;
+    justify-items: center;
+    margin-bottom: 600px;
+
+  
+`;
+
+export const InformativeCard1 = styled.div`
+    width: 400px;
+    height: 200px;
+    background-color: #555555;
+    border-radius: 2%;
+   // border: 5px solid black;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 90px;
+    display: grid;
+    justify-items: center;
+    padding-right: 2%;
+    padding-left: 2%;
+`;
+
+export const SaberMaisContainer = styled.div`
+    width: 260px;
+    height: auto;
+    padding-bottom: 40px;
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+
+    @media (max-width: 768px) {
+        padding-top: 40px;
+}
+`;
+
+export const WhatsappIcon2 = styled.div`
+    cursor: pointer;
+    width: 55px;
+    height: 55px;
+    background-image: url(${whatsapp});
+    border-radius: 50%;
+    transition: transform .5s;
+    background-position: 0%, 0%;
+    background-size: cover;
+    justify-self: center;
+    margin-top: 10px;
+    &:hover {
+        transform: scale(1.3);
+    }
+`;
+
+export const LoasIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${loas});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const PensaoIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${pensao});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const AuxilioIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${auxilio});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const RevisaoIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${revisao});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const PolicialIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${policial});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const FolhaIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${folha});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const ViolenciaIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${violencia});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const VendacasadaIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${vendacasada});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const RecusaIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${recusa});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
+
+export const CartaoIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${cartao});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-bottom: 30px;
+`;
