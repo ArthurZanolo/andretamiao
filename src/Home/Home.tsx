@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import AdditionalInfo from '../components/additionalinfo/additionalinfo';
 import Header from "../Header/header";
-import { AuxilioIcon, CardsContainers, CartaoIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, RevisaoIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon, WhatsappIcon2 } from "./styles";
+import { AuxilioIcon, CardsContainers, CartaoIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon, WhatsappIcon2 } from "./styles";
 import Footer from "../footer/footer";
 import ReadMore from "../components/readmore/readmore";
 

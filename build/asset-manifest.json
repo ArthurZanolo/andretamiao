@@ -1,21 +1,35 @@
 {
   "files": {
     "main.css": "/static/css/main.629afaef.css",
-    "main.js": "/static/js/main.4bde91d1.js",
+    "main.js": "/static/js/main.9768ec59.js",
     "static/media/civil.jpg": "/static/media/civil.df093196d56d064f60e9.jpg",
     "static/media/civil2.jpg": "/static/media/civil2.be20a2f924d74f9fc465.jpg",
     "static/media/instagram.png": "/static/media/instagram.5e2b5ff9703a04f47d48.png",
     "static/media/7c81bd56-d313-48fc-8857-426e4f05d713.jpg": "/static/media/7c81bd56-d313-48fc-8857-426e4f05d713.e6ff2f3ffc741b6f2c1c.jpg",
     "static/media/whatsapp.png": "/static/media/whatsapp.38bdd2bee6b339146fb3.png",
+    "static/media/violência.png": "/static/media/violência.f43331ff972b388d5676.png",
+    "static/media/revisao.png": "/static/media/revisao.01fa892d219f4eead492.png",
+    "static/media/previdenciario.png": "/static/media/previdenciario.7bc6a4aa1fe63534e8d8.png",
+    "static/media/consumidor.png": "/static/media/consumidor.d23caace9d49b665f0b6.png",
+    "static/media/policial.png": "/static/media/policial.a00159fde7762c28c3e2.png",
+    "static/media/civil.png": "/static/media/civil.860500f3793096c158f8.png",
+    "static/media/recusa.png": "/static/media/recusa.98f5a20ce7c6cea98ccc.png",
+    "static/media/Arrow_bottom.png": "/static/media/Arrow_bottom.8f78b28b3e8ab1bd3138.png",
+    "static/media/Arrow_top.png": "/static/media/Arrow_top.076649a91f120a9d318e.png",
+    "static/media/vendacasada.png": "/static/media/vendacasada.92fae2bc1b26f4fece92.png",
+    "static/media/pensaomorteicon.png": "/static/media/pensaomorteicon.280cbde7f9749778327c.png",
+    "static/media/criminal.png": "/static/media/criminal.0b7a1c236a09de2d1640.png",
     "static/media/facebook.png": "/static/media/facebook.a495e1b87fcb2cf58ecd.png",
     "static/media/maps.png": "/static/media/maps.ae1ce11dce12498c0963.png",
+    "static/media/cartao.png": "/static/media/cartao.f09b66525c5becd98b66.png",
+    "static/media/BPCLOASIcon.png": "/static/media/BPCLOASIcon.2488dfa2a2d9a4aeaf85.png",
     "static/media/juridico.png": "/static/media/juridico.6d4d4fe22ea2ef04081d.png",
     "index.html": "/index.html",
     "main.629afaef.css.map": "/static/css/main.629afaef.css.map",
-    "main.4bde91d1.js.map": "/static/js/main.4bde91d1.js.map"
+    "main.9768ec59.js.map": "/static/js/main.9768ec59.js.map"
   },
   "entrypoints": [
     "static/css/main.629afaef.css",
-    "static/js/main.4bde91d1.js"
+    "static/js/main.9768ec59.js"
   ]
 }

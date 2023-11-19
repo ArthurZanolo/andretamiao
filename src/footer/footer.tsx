@@ -1,5 +1,4 @@
 
-import { CustomSpan } from "../Home/styles";
 import { Container, FacebookIcon, InstagramIcon, JuridicoIcon, LastContainer, LastContainerText, Logo2, MapsIcon, SocialContainer, TextSpan, TiktokIcon, WhatsappIcon } from "./styles";
 
 

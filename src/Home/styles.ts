@@ -312,30 +312,9 @@ export const SaibaMais = styled.button`
 }
 `;
 
-export const ModalContainer = styled.div`
-    height: 100vh;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    backdrop-filter: blur(10px);
-    background-color: rgba(0, 0, 0, 0.8);
-    z-index: 9999;
-`;
 
-export const ModalContent = styled.div`
-    width: 1600px;
-    height: 900px;
-    background-color: #555555;
-    position: absolute;
-    justify-content: center;
-    align-items: center;
-    display: grid;
-    justify-items: center;
-`;
+
+
 
 export const ModalCloseButton = styled.button`
     background-color: #ff0000;
@@ -354,15 +333,7 @@ export const ModalCloseButton = styled.button`
     margin-top: 800px;
 `;
 
-export const ModalContentText = styled.span`
-    text-align: left;
-    color: #fff;
-    font-size: 22px;
-    font-weight: bold;
-    padding: 4%;
-    margin-left: 35px;
-    
-`;
+
 
 export const CivelIcon = styled.div`
     width: 90px;
@@ -424,10 +395,57 @@ export const PrevidenciarioIcon = styled.div`
 }
 `;
 
+export const ModalContentText = styled.span`
+    text-align: left;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 4%;
+    margin-left: 35px;
+    
+    @media (max-width: 768px) {
+        height: auto;
+        width: 40%;
+    }
+`;
+
+export const ModalContainer = styled.div`
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+
+    @media (max-width: 768px) {
+       
+    }
+`;
+
+export const ModalContent = styled.div`
+    width: 1600px;
+    height: 900px;
+    background-color: #555555;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    justify-items: center;
+
+    @media (max-width: 768px) {
+        width: 100%;
+        height: 100%;
+    }
+`;
+
 export const ModalCardsContainer = styled.div`
     width: 1500px;
     height: auto;
-   // background-color: white;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 30px;
@@ -435,8 +453,11 @@ export const ModalCardsContainer = styled.div`
     justify-items: center;
     margin-bottom: 600px;
 
-  
+    @media (max-width: 768px) {
+        
+    }
 `;
+
 
 export const InformativeCard1 = styled.div`
     width: 400px;
@@ -452,6 +473,12 @@ export const InformativeCard1 = styled.div`
     justify-items: center;
     padding-right: 2%;
     padding-left: 2%;
+
+    @media (max-width: 768px) {
+       width: 100px;
+       height: 50px;
+
+    }
 `;
 
 export const SaberMaisContainer = styled.div`

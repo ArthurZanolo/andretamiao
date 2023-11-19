@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface AdditionalInfoProps {
-  content: string; // Defina o tipo apropriado aqui
+  content: string;
 }
 
 const AdditionalInfo: React.FC<AdditionalInfoProps> = ({ content }) => {
