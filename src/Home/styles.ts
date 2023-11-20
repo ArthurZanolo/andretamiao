@@ -38,6 +38,8 @@ export const Foto = styled.div`
     height: 400px;
     position: relative;
     background-attachment: scroll;
+    transform: scaleX(-1);
+    background-position: 100%;
   }
 `;
 
@@ -68,7 +70,7 @@ export const TamiaoCard = styled.div`
 export const Container = styled.div`
     width: 100%;
     height: auto;
-    box-sizing: border-box
+    overflow-x: hidden;
 `;
 
 
@@ -155,6 +157,7 @@ export const TextoTamiao = styled.div`
   @media (max-width: 768px) {
         margin: 0 auto;
         padding-top: 3%;
+        width: 400px;
 }
 `;
 
@@ -173,6 +176,7 @@ export const ServiceContainer = styled.div`
     @media (max-width: 768px) {
     position: relative;
     background-attachment: scroll;
+    background-position: 44%;
 }
 `;
 

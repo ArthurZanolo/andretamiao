@@ -37,10 +37,15 @@ export const SocialContainer = styled.div`
 
     @media (max-width: 768px) {
         grid-template-columns: repeat(2, 3fr);
-        row-gap: 30px;
-        column-gap: 0px;
         margin: 0 auto;
+        gap: 15px;
+        column-gap: 1px;
+        padding-left: 20%;
 }
+
+    @media (max-width: 560px) {
+            padding-left: 23%;
+    }
 `;
 
 export const FacebookIcon = styled.div`
@@ -171,7 +176,11 @@ export const LastContainer = styled.div`
 
     @media (max-width: 768px) {
         margin: 0 auto;
-        padding-top: 25%;
+        margin-top: 25%;
+}
+    @media (max-width: 560px) {
+        width: 400px;
+        margin-top: 28%;
 }
 `;
 
