@@ -70,7 +70,7 @@ export const TamiaoCard = styled.div`
 export const Container = styled.div`
     width: 100%;
     height: auto;
-    
+    overflow-x: hidden;
 `;
 
 
@@ -434,12 +434,12 @@ export const ModalContent = styled.div`
 
     @media (max-width: 525px) {
         width: 400px;
-        height: 600px;
+        height: 500px;
     }
 
     @media (max-width: 420px) {
         width: 340px;
-        height: 600px;
+        height: 500px;
     }
 `;
 
@@ -503,7 +503,14 @@ export const ModalCloseButton = styled.button`
 
     @media (max-width: 768px) {
         margin-top: 540px;
+        
+    }
 
+    @media (max-width: 525px) {
+        margin-top: 440px;
+        width: 100px;
+        height: 50px;
+        font-size: 18px;
     }
 `;
 
