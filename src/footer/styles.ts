@@ -185,7 +185,7 @@ export const LastContainer = styled.div`
         margin-top: 25%;
 }
     @media (max-width: 560px) {
-        width: 400px;
+        width: 370px;
         margin-top: 28%;
 }
     @media (max-width: 420px) {

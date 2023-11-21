@@ -437,12 +437,12 @@ export const ModalContent = styled.div`
 
     @media (max-width: 525px) {
         width: 400px;
-        height: 700px;
+        height: 600px;
     }
 
     @media (max-width: 420px) {
         width: 340px;
-        height: 700px;
+        height: 600px;
     }
 `;
 
@@ -505,7 +505,7 @@ export const ModalCloseButton = styled.button`
     margin-top: 800px;
 
     @media (max-width: 768px) {
-        margin-top: 640px;
+        margin-top: 540px;
 
     }
 `;
