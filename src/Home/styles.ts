@@ -70,7 +70,7 @@ export const TamiaoCard = styled.div`
 export const Container = styled.div`
     width: 100%;
     height: auto;
-    overflow-x: hidden;
+    
 `;
 
 
@@ -114,7 +114,7 @@ export const FotoInfo = styled.div`
     margin-bottom: 50px;
 
     @media (max-width: 768px) {
-
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(1, 2fr);
     margin: 0 auto;
@@ -151,19 +151,16 @@ export const TextoTamiao = styled.div`
     font-size: 22px;
     font-weight: bold;
     color: #fff;
-    @media (max-width: 768px) {
-    height: 160px;
-  }
+
   @media (max-width: 768px) {
         margin: 0 auto;
         padding-top: 3%;
-        width: 400px;
+        width: 300px;
 }
 
 @media (max-width: 420px) {
         margin: 0 auto;
         padding-top: 3%;
-        width: 400px;
         padding-left: 6%;
 }
 `;
