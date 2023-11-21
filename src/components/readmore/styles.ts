@@ -18,6 +18,10 @@ export const LerMaisButton = styled.button`
     font-size: 18px;
     font-weight: bold;
     margin-top: 20px;
+
+    @media (max-width: 768px) {
+        display: none;
+}
 `;
 
 export const LerMenosButton = styled.button`
@@ -36,6 +40,10 @@ export const LerMenosButton = styled.button`
     font-weight: bold;
     align-self: center;
     justify-self: center;
+
+    @media (max-width: 768px) {
+        display: none;
+}
 `;
 
 export const ContentContainer = styled.div`
@@ -45,4 +53,8 @@ export const ContentContainer = styled.div`
     grid-template-columns: repeat(1, 1fr);
     //background-color: orange;
     row-gap: 10px;
+    
+    @media (max-width: 768px) {
+        display: none;
+}
 `;

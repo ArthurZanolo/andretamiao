@@ -90,22 +90,22 @@ function Home() {
                         handleShowAdditionalInfo(
                             <ModalCardsContainer>
                                 <InformativeCard1>
-                                        <PolicialIcon />
-                                        <CustomSpan>Acompanhamento de Inquérito Policial</CustomSpan>
-                                        <ReadMore content="Este serviço é uma assistência prestada por advogados a envolvidos em investigações criminais. Envolve a orientação legal, representação e a proteção dos direitos do cliente durante a fase inicial de uma investigação, o inquérito policial. Isso inclui a assessoria durante depoimentos, análise de evidências e negociação com as autoridades, visando garantir um processo justo e, se necessário, a preparação para futuras etapas do processo criminal." />
+                                    <PolicialIcon />
+                                    <CustomSpan>Acompanhamento de Inquérito Policial</CustomSpan>
+                                    <ReadMore content="Este serviço é uma assistência prestada por advogados a envolvidos em investigações criminais. Envolve a orientação legal, representação e a proteção dos direitos do cliente durante a fase inicial de uma investigação, o inquérito policial. Isso inclui a assessoria durante depoimentos, análise de evidências e negociação com as autoridades, visando garantir um processo justo e, se necessário, a preparação para futuras etapas do processo criminal." />
+                                </InformativeCard1>
+
+                                <InformativeCard1>
+                                    <FolhaIcon />
+                                    <CustomSpan>Revisão Criminal</CustomSpan>
+                                    <ReadMore content="A Revisão Criminal é um processo legal que permite a reavaliação de casos já julgados, com o objetivo de corrigir erros ou injustiças. Novas evidências ou argumentos legais são apresentados para modificar sentenças ou anular condenações. Isso é fundamental para garantir a justiça no sistema legal." />
+                                </InformativeCard1>
+
+                                <InformativeCard1>
+                                    <ViolenciaIcon />
+                                    <CustomSpan>Violência Doméstica</CustomSpan>
+                                    <ReadMore content="Envolve a defesa e proteção dos direitos das vítimas ou dos acusados em situações de abuso ou violência dentro do ambiente doméstico. O advogado auxilia na obtenção de ordens de proteção, na representação legal durante processos judiciais e fornece aconselhamento jurídico para buscar soluções apropriadas para as partes envolvidas." />
                                     </InformativeCard1>
-
-                                <InformativeCard1>
-                                <FolhaIcon />
-                                <CustomSpan>Revisão Criminal</CustomSpan>
-                                <ReadMore content="A Revisão Criminal é um processo legal que permite a reavaliação de casos já julgados, com o objetivo de corrigir erros ou injustiças. Novas evidências ou argumentos legais são apresentados para modificar sentenças ou anular condenações. Isso é fundamental para garantir a justiça no sistema legal." />
-                                </InformativeCard1>
-
-                                <InformativeCard1>
-                                <ViolenciaIcon />
-                                <CustomSpan>Violência Doméstica</CustomSpan>
-                                <ReadMore content="Envolve a defesa e proteção dos direitos das vítimas ou dos acusados em situações de abuso ou violência dentro do ambiente doméstico. O advogado auxilia na obtenção de ordens de proteção, na representação legal durante processos judiciais e fornece aconselhamento jurídico para buscar soluções apropriadas para as partes envolvidas." />
-                                </InformativeCard1>
                             </ModalCardsContainer>
                         );
                         }}>Saiba Mais</SaibaMais>

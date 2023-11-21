@@ -43,8 +43,14 @@ export const SocialContainer = styled.div`
         padding-left: 20%;
 }
 
-    @media (max-width: 560px) {
+    @media (max-width: 595px) {
             padding-left: 23%;
+    }
+    @media (max-width: 455px) {
+            padding-left: 20%;
+    }
+    @media (max-width: 400px) {
+            padding-left: 17%;
     }
 `;
 
@@ -181,6 +187,10 @@ export const LastContainer = styled.div`
     @media (max-width: 560px) {
         width: 400px;
         margin-top: 28%;
+}
+    @media (max-width: 420px) {
+            width: 370px;
+            margin-top: 31%;
 }
 `;
 

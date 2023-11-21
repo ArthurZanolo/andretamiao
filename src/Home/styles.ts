@@ -159,6 +159,13 @@ export const TextoTamiao = styled.div`
         padding-top: 3%;
         width: 400px;
 }
+
+@media (max-width: 420px) {
+        margin: 0 auto;
+        padding-top: 3%;
+        width: 400px;
+        padding-left: 6%;
+}
 `;
 
 export const ServiceContainer = styled.div`
@@ -316,29 +323,6 @@ export const SaibaMais = styled.button`
 }
 `;
 
-
-
-
-
-export const ModalCloseButton = styled.button`
-    background-color: #ff0000;
-    border-radius: 5px;
-    color: white;
-    cursor: pointer;
-    height: 60px;
-    width: 120px;
-    border: none;
-    font-size: 19px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 20px;
-    align-self: center;
-    position: absolute;
-    margin-top: 800px;
-`;
-
-
-
 export const CivelIcon = styled.div`
     width: 90px;
     height: 110px;
@@ -409,7 +393,12 @@ export const ModalContentText = styled.span`
     
     @media (max-width: 768px) {
         height: auto;
-        width: 40%;
+        width: 400px;
+    }
+
+    @media (max-width: 525px) {
+        width: 260px;
+
     }
 `;
 
@@ -442,8 +431,18 @@ export const ModalContent = styled.div`
     justify-items: center;
 
     @media (max-width: 768px) {
-        width: 100%;
-        height: 100%;
+        width: 500px;
+        height: 800px;
+    }
+
+    @media (max-width: 525px) {
+        width: 400px;
+        height: 700px;
+    }
+
+    @media (max-width: 420px) {
+        width: 340px;
+        height: 700px;
     }
 `;
 
@@ -458,6 +457,10 @@ export const ModalCardsContainer = styled.div`
     margin-bottom: 600px;
 
     @media (max-width: 768px) {
+        width: 600px;
+        row-gap: 0px;
+        column-gap: 0px;
+        display: none;
         
     }
 `;
@@ -481,6 +484,28 @@ export const InformativeCard1 = styled.div`
     @media (max-width: 768px) {
        width: 100px;
        height: 50px;
+
+    }
+`;
+
+export const ModalCloseButton = styled.button`
+    background-color: #ff0000;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 60px;
+    width: 120px;
+    border: none;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    align-self: center;
+    position: absolute;
+    margin-top: 800px;
+
+    @media (max-width: 768px) {
+        margin-top: 640px;
 
     }
 `;
