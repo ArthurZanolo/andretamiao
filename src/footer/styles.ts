@@ -40,19 +40,17 @@ export const SocialContainer = styled.div`
         margin: 0 auto;
         gap: 15px;
         column-gap: 1px;
-        padding-left: 20%;
-        width: 300px;
+        padding-left: 18%;
+        width: 250px;
 }
 
     @media (max-width: 595px) {
-            padding-left: 18%;
-    }
-    @media (max-width: 455px) {
             padding-left: 20%;
     }
-    @media (max-width: 400px) {
-
+    @media (max-width: 455px) {
+            padding-left: 16%;
     }
+
 `;
 
 export const FacebookIcon = styled.div`

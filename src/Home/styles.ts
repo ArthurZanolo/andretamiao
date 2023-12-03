@@ -17,6 +17,10 @@ import violencia from "../assets/violência.png"
 import vendacasada from "../assets/vendacasada.png"
 import recusa from "../assets/recusa.png"
 import cartao from "../assets/cartao.png"
+import civelcontrato from "../assets/civelcontrato.png"
+import civelfamilia from "../assets/civelfamilia.png"
+import civelcontrato2 from "../assets/civelcontrato2.png"
+
 
 export const Foto = styled.div`
     width:100%;
@@ -70,7 +74,7 @@ export const TamiaoCard = styled.div`
 export const Container = styled.div`
     width: 100%;
     height: auto;
-    overflow-x: hidden;
+    
 `;
 
 
@@ -185,13 +189,13 @@ export const ServiceContainer = styled.div`
 `;
 
 export const ServiceTitleContainer = styled.div`
-    border-bottom: 6px solid #fff;
-    width: 200px;
+    
+    width: 175px;
     height: 58px;
     justify-content: center;
     justify-self: center;
     padding-top: 50px;
-    border-radius: 10%;
+    
 
     @media (max-width: 768px) {
      width: 140px;
@@ -204,6 +208,9 @@ export const ServiceTitle = styled.div`
     font-size: 44px;
     font-weight: bold;
     color: #fff;
+    border-bottom: 6px solid #fff;
+    border-radius: 18%;
+
 
     @media (max-width: 768px) {
        font-size: 36px;
@@ -312,6 +319,12 @@ export const SaibaMais = styled.button`
     font-size: 20px;
     font-weight: bold;
     text-align: center;
+    transition: .7s;
+    &:hover {
+        background-color: #990000;
+        border: #990000;
+    }
+    
 
     @media (max-width: 768px) {
         width: 120px;
@@ -369,6 +382,51 @@ export const PrevidenciarioIcon = styled.div`
     width: 90px;
     height: 110px;
     background-image: url(${previdenciario});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const CivelContratoIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${civelcontrato});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const CivelContrato2Icon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${civelcontrato2});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px; 
+
+    @media (max-width: 768px) {
+        width: 75px;
+        height: 90px;
+}
+`;
+
+export const CivelFamiliaIcon = styled.div`
+    width: 90px;
+    height: 110px;
+    background-image: url(${civelfamilia});
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;

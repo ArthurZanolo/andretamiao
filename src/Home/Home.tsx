@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import AdditionalInfo from '../components/additionalinfo/additionalinfo';
 import Header from "../Header/header";
-import { AuxilioIcon, CardsContainers, CartaoIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon, WhatsappIcon2 } from "./styles";
+import { AuxilioIcon, CardsContainers, CartaoIcon, CivelContrato2Icon, CivelContratoIcon, CivelFamiliaIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon, WhatsappIcon2 } from "./styles";
 import Footer from "../footer/footer";
 import ReadMore from "../components/readmore/readmore";
 
@@ -50,8 +50,28 @@ function Home() {
                         <CivelIcon></CivelIcon>
                         <ServiceName>Cível</ServiceName>
                         <SaibaMais onClick={() => { 
-                        handleSaibaMaisClick("Descrição do serviço");
-                        handleShowAdditionalInfo("A");
+                        handleSaibaMaisClick("Abrange casos em que uma parte busca reparação por danos causados por outra, como questões contratuais, responsabilidade civil, direito de família, sucessões, entre outros.");
+                        handleShowAdditionalInfo(
+                            <ModalCardsContainer>
+                                <InformativeCard1>
+                                    <CivelContratoIcon />
+                                    <CustomSpan>Contencioso Civil</CustomSpan>
+                                    <ReadMore content="O contencioso civil envolve litígios e disputas que são levados aos tribunais. Pode abranger uma variedade de assuntos, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações." />
+                                </InformativeCard1>
+
+                                <InformativeCard1>
+                                    <CivelFamiliaIcon />
+                                    <CustomSpan>Direito de Família</CustomSpan>
+                                    <ReadMore content="Este campo trata de questões relacionadas ao direito matrimonial, divórcio, guarda de filhos, pensão alimentícia, visitação, adoção e outros assuntos que envolvem relações familiares." />
+                                </InformativeCard1>
+
+                                <InformativeCard1>
+                                    <CivelContrato2Icon />
+                                    <CustomSpan>Contratos e Negociações</CustomSpan>
+                                    <ReadMore content="Advogados civis ajudam na elaboração, revisão e negociação de contratos. Isso pode incluir contratos de compra e venda, acordos comerciais, contratos de aluguel, entre outros. Eles também podem oferecer aconselhamento jurídico em negociações para garantir que seus clientes estejam protegidos legalmente." />
+                                </InformativeCard1>
+                            </ModalCardsContainer>
+                        );
                         }}>Saiba Mais</SaibaMais>
                     </ServiceCard>
                     <ServiceCard>

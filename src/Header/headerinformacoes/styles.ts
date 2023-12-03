@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logo from "../assets/logodireito.png"
+import logo from "../../assets/logodireito.png"
 
 
 
@@ -22,7 +22,7 @@ export const GuiasContainer = styled.div`
     align-items: center;
     justify-content: space-between;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 30px;
     row-gap: 50px;
    
