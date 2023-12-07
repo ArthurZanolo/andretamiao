@@ -7,44 +7,45 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Acompanhamento de Inquérito Policial</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    O serviço de Acompanhamento de Inquérito Policial é uma área especializada do direito criminal na qual advogados oferecem assistência legal e representação para indivíduos envolvidos em investigações criminais. O inquérito policial é a fase inicial de um processo penal, onde autoridades coletam evidências para determinar se há fundamento para apresentar acusações formais.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Orientação Legal:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Advogados especializados em Acompanhamento de Inquérito Policial fornecem orientação legal desde o início da investigação. Isso inclui aconselhamento sobre direitos constitucionais, garantias legais e possíveis desdobramentos.
+Representação Jurídica:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Os advogados atuam como representantes legais durante todo o processo de inquérito. Isso envolve a participação ativa nas interações com autoridades policiais, garantindo que os direitos do cliente sejam protegidos.
+Proteção de Direitos Individuais:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Assegurar que o processo de investigação respeite os direitos constitucionais do indivíduo, incluindo o direito ao silêncio, à presença de um advogado e à não autoincriminação.
+Análise de Provas e Documentação:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Advogados examinam minuciosamente as evidências apresentadas durante o inquérito, avaliando a legalidade da coleta de provas, buscando inconsistências e preparando estratégias defensivas.
+Negociação com as Autoridades:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Tentativas de negociação com as autoridades policiais para influenciar o curso da investigação, apresentar argumentos em defesa do cliente e, se possível, buscar o encerramento do inquérito sem acusações formais.
+Preparação para Fases Subsequentes:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Caso o inquérito resulte em acusações, advogados estarão preparados para as fases subsequentes do processo criminal, incluindo o julgamento. Eles garantem que seus clientes estejam cientes dos procedimentos legais e das opções disponíveis.
+Busca por Evidências em Favor do Cliente:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Ativamente buscar evidências e testemunhas que possam favorecer o cliente, contribuindo para a construção de uma defesa sólida.
+Objetivos do Serviço:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Garantir um Processo Legal Justo:
+
+Certificar-se de que o inquérito policial siga procedimentos legais e constitucionais, protegendo os direitos individuais dos investigados.
+Minimizar Impactos Negativos:
+
+Trabalhar para minimizar os impactos negativos do inquérito na vida e reputação do cliente, buscando a melhor resolução possível.
+Defesa Prévia a Acusações Formais:
+
+Buscar estratégias para evitar ou mitigar acusações formais por meio de argumentos legais sólidos e negociação com as autoridades.
+Preparação Abrangente para o Futuro Processo Judicial:
+
+Preparar o cliente para as fases subsequentes do processo criminal, garantindo que estejam cientes de seus direitos e opções legais.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

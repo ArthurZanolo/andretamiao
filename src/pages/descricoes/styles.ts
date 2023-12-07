@@ -7,6 +7,10 @@ export const ServiceDescription2 = styled.div`
     text-align: center;
     padding-top: 1%;
     padding-bottom: 1%;
+
+    @media (max-width: 768px) {
+    font-size: 22px;
+  }
 `;
 
 

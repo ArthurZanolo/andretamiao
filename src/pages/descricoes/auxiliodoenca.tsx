@@ -7,44 +7,45 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Auxílio Doença</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    O auxílio-doença é uma proteção social essencial oferecida pelo Instituto Nacional do Seguro Social (INSS) a trabalhadores que, devido a razões médicas, ficam temporariamente incapazes de realizar suas atividades laborais. O trabalho jurídico associado ao auxílio-doença visa garantir que os beneficiários tenham acesso ao suporte financeiro necessário durante períodos de incapacidade temporária.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Avaliação Médica:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Advogados especializados em auxílio-doença auxiliam os clientes na obtenção de avaliações médicas que comprovem a incapacidade temporária para o trabalho.
+Requisitos para Elegibilidade:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Informam os clientes sobre os requisitos específicos para serem elegíveis ao auxílio-doença, incluindo a necessidade de cumprir a carência e apresentar documentos médicos adequados.
+Documentação e Preparação:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Assessoram na preparação da documentação necessária para solicitar o benefício, garantindo que todos os registros médicos relevantes sejam incluídos.
+Processo Administrativo:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Representam os clientes durante o processo administrativo junto ao INSS, assegurando que todas as etapas sejam seguidas corretamente.
+Perícia Médica:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Preparam os clientes para a perícia médica, um passo crucial onde um médico do INSS avalia a extensão da incapacidade temporária.
+Recursos Administrativos e Judiciais:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Em casos de negativas, advogados podem interpor recursos administrativos e, se necessário, ingressar com ações judiciais para garantir o reconhecimento do direito ao auxílio-doença.
+Reabilitação Profissional:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Em alguns casos, advogados podem buscar a reabilitação profissional, colaborando com o INSS para ajudar o beneficiário a retornar ao trabalho após o período de incapacidade.
+Objetivos do Serviço:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Proteção Temporária do Trabalhador:
+
+Garantir que os trabalhadores temporariamente incapacitados recebam suporte financeiro adequado durante o período de recuperação.
+Acesso Justo aos Benefícios:
+
+Assegurar que os clientes tenham acesso justo aos benefícios do auxílio-doença de acordo com a legislação previdenciária.
+Garantia de Direitos Legais:
+
+Proteger os direitos legais dos beneficiários, garantindo que recebam o suporte necessário durante a incapacidade temporária.
+Colaboração com a Reabilitação:
+
+Colaborar com programas de reabilitação profissional quando aplicável, visando o retorno eficaz ao trabalho.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

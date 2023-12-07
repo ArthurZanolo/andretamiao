@@ -7,44 +7,51 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Recursos e Revisão de Sentenças</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A área jurídica de "Recursos e Revisão de Sentenças" desempenha um papel essencial no sistema judicial, permitindo que indivíduos condenados busquem revisões de suas sentenças ou apresentem recursos em instâncias superiores. Este serviço é fundamental para garantir que as decisões judiciais sejam justas, legais e estejam em conformidade com os direitos fundamentais dos réus.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Análise Crítica da Sentença:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Advogados especializados em recursos e revisão de sentenças realizam uma análise crítica da sentença original, identificando possíveis falhas legais, erros processuais ou interpretações equivocadas.
+Identificação de Fundamentos para Recurso:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+A revisão inicia-se com a identificação de fundamentos sólidos para a interposição de recursos, como alegações de vícios processuais, interpretação inadequada da lei ou evidências não consideradas.
+Prazos Legais:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Advogados estão cientes e gerenciam rigorosamente os prazos legais para a interposição de recursos. O não cumprimento desses prazos pode resultar na perda da oportunidade de apelação.
+Preparação dos Documentos Jurídicos:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+A preparação de documentos jurídicos é uma parte crucial do processo, incluindo a redação de petições, apresentação de argumentos legais sólidos e documentação de evidências relevantes.
+Apresentação em Instâncias Superiores:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Os recursos são apresentados em instâncias superiores, como tribunais de apelação, buscando a revisão da sentença original. Essas instâncias examinam se houve erro de direito ou procedimento.
+Argumentação Jurídica:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Advogados apresentam argumentos jurídicos fundamentados, destacando as razões pelas quais a sentença deveria ser revista ou anulada.
+Revisão de Evidências:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Quando aplicável, a revisão de evidências pode envolver a apresentação de novas provas que não foram consideradas no julgamento original.
+Defesa dos Interesses do Réu:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+O foco principal é a defesa dos interesses do réu, assegurando que ele receba um julgamento justo e que sua sentença seja proporcional à gravidade do delito.
+Objetivos do Serviço:
+
+Garantia do Devido Processo Legal:
+
+Assegurar que o réu tenha recebido um julgamento justo e imparcial, conforme estabelecido no devido processo legal.
+Correção de Possíveis Injustiças:
+
+Buscar a correção de possíveis injustiças decorrentes de erros processuais, interpretações inadequadas da lei ou falhas na apresentação de evidências.
+Anulação ou Modificação da Sentença:
+
+O objetivo final pode ser a anulação da sentença original ou a modificação para uma pena mais justa e proporcional.
+Contribuição para a Integridade do Sistema Judicial:
+
+A apresentação de recursos contribui para a integridade e confiança no sistema judicial, demonstrando a capacidade de corrigir decisões que não estejam em conformidade com a lei.
+Proteção dos Direitos Individuais:
+
+Proteger os direitos fundamentais dos réus, incluindo o direito a um julgamento justo, o contraditório e a ampla defesa.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

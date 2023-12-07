@@ -27,7 +27,7 @@ export const GuiasContainer = styled.div`
     row-gap: 50px;
    
     @media (max-width: 768px) {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         
 }
 `;
@@ -47,6 +47,25 @@ export const AndréTamião = styled.div`
     @media (max-width: 768px) {
         display: none;
 }
+
+`;
+
+export const HeaderInfoButton = styled.div`
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+    transition: .5s;
+    cursor: pointer;
+    text-align: center;
+    &:hover {
+        color: red;
+        border-bottom: red;
+    }
+
+    @media (max-width: 768px) {
+     border-bottom: 4px solid #fff;
+  }
+
 `;
 
 export const Logo = styled.div`
@@ -64,4 +83,8 @@ export const Logo = styled.div`
     box-sizing: border-box;
     align-self: center;
     justify-self: center;
+
+    @media (max-width: 768px) {
+        display: none;
+}
 `;

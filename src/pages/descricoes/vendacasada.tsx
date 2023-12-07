@@ -9,42 +9,43 @@ import { ServiceDescription2 } from "./styles";
                 <CardsSubContainer>
                     <AndréTamião>Venda Casada</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A prática de venda casada no contexto jurídico refere-se à imposição de condições para a aquisição de um produto ou serviço. Geralmente, essa condição é a compra de outro produto ou serviço vinculado, prejudicando a liberdade de escolha do consumidor. Este serviço jurídico visa proteger os direitos dos consumidores, assegurando que eles possam fazer escolhas livres de coerção ou imposição.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Definição de Venda Casada:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+A venda casada ocorre quando um fornecedor condiciona a venda de um produto ou serviço à aquisição de outro, sem que haja uma relação natural entre eles.
+Proteção Legal:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Advogados especializados nessa área têm como objetivo garantir que os consumidores estejam protegidos contra essa prática, que é geralmente considerada ilegal em muitas jurisdições.
+Conscientização dos Consumidores:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Educar os consumidores sobre o que constitui venda casada e os direitos legais que possuem para resistir a essa prática.
+Ações Legais:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Em casos de identificação de venda casada, os advogados podem tomar medidas legais para responsabilizar os fornecedores envolvidos, buscando compensação para os consumidores afetados.
+Coibição de Práticas Ilegais:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Atuar proativamente para coibir práticas de venda casada, seja por meio de ações judiciais ou colaboração com órgãos reguladores.
+Objetivos do Serviço:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Preservação da Liberdade de Escolha:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Garantir que os consumidores tenham liberdade para escolher produtos e serviços com base em suas necessidades e preferências, sem coerção.
+Proteção dos Consumidores Mais Vulneráveis:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Proteger consumidores que podem ser mais suscetíveis a práticas de venda casada devido à falta de informação ou poder de negociação.
+Conformidade com Legislação Vigente:
+
+Assegurar que as práticas comerciais estejam em conformidade com as leis locais e nacionais que proíbem a venda casada.
+Restituição e Compensação:
+
+Buscar restituição para consumidores que foram prejudicados por práticas ilegais, incluindo compensação por danos materiais ou morais.
+Prevenção de Danos Financeiros:
+
+Evitar que os consumidores sejam forçados a gastar mais do que o necessário devido a práticas de venda casada, protegendo seus interesses financeiros.
+Criação de Consciência Jurídica:
+
+Promover a conscientização sobre os direitos dos consumidores e as práticas ilegais, incentivando uma cultura de consumo informada e protegida.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

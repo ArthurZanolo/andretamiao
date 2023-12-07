@@ -7,44 +7,47 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>BPC/LOAS</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                        
+BPC/LOAS (Benefício de Prestação Continuada/Lei Orgânica da Assistência Social): Explorando o Trabalho Jurídico Nessa Área
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+O BPC/LOAS é um benefício essencial oferecido pelo Instituto Nacional do Seguro Social (INSS) no Brasil, destinado a pessoas com deficiência e idosos em situação de vulnerabilidade socioeconômica. O trabalho jurídico associado ao BPC/LOAS visa garantir que os indivíduos elegíveis a este benefício tenham seus direitos protegidos e possam acessar o suporte financeiro necessário para uma vida digna.
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Descrição Detalhada do Serviço:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Avaliação de Elegibilidade:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Advogados especializados avaliam a elegibilidade dos clientes, considerando fatores como renda familiar, idade e presença de deficiência.
+Orientação sobre Documentação:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Fornecem orientação sobre a documentação necessária para comprovar a deficiência ou idade avançada e garantir uma aplicação eficaz.
+Processo de Solicitação:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Auxiliam os clientes no preenchimento correto dos formulários de solicitação, garantindo que todas as informações relevantes sejam apresentadas.
+Recurso Administrativo e Judicial:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Em casos de negativas, advogados podem interpor recursos administrativos junto ao INSS e, se necessário, ingressar com ações judiciais para garantir o reconhecimento do direito ao BPC/LOAS.
+Perícia Médica:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Preparam os clientes para a perícia médica, caso seja necessária, a fim de comprovar a deficiência e a necessidade do benefício.
+Atuação em Processos Judiciais:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Advogados representam os clientes em processos judiciais para garantir que, em casos de litígio, os direitos ao BPC/LOAS sejam reconhecidos.
+Objetivos do Serviço:
+
+Acesso ao Suporte Financeiro:
+
+Assegurar que pessoas com deficiência e idosos em situação de vulnerabilidade tenham acesso ao suporte financeiro necessário para uma vida digna.
+Proteção dos Direitos Legais:
+
+Proteger os direitos legais dos beneficiários do BPC/LOAS, garantindo que recebam o benefício de acordo com as disposições da Lei Orgânica da Assistência Social.
+Garantia de Tratamento Justo:
+
+Buscar garantir que o processo de solicitação e avaliação seja conduzido de maneira justa e imparcial, de acordo com a legislação vigente.
+Colaboração com Organizações Sociais:
+
+Advogados podem colaborar com organizações sociais para garantir que aqueles que precisam do BPC/LOAS tenham conhecimento do benefício e acessem os serviços jurídicos necessários.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

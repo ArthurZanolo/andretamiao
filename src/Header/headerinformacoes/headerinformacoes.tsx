@@ -1,4 +1,4 @@
-import { AndréTamião, Container, GuiasContainer, Logo } from "./styles";
+import { AndréTamião, Container, GuiasContainer, HeaderInfoButton, Logo } from "./styles";
 import { useNavigate } from "react-router-dom";
 
 function HeaderInformacoes() {
@@ -9,8 +9,8 @@ function HeaderInformacoes() {
         <Container>
             <GuiasContainer>
                 <Logo></Logo>
-                <AndréTamião onClick={() => navigate('/')}>Home</AndréTamião>
-                <AndréTamião onClick={() => navigate('/informacoes')}>Informações</AndréTamião>
+                <HeaderInfoButton onClick={() => navigate('/')}>Home</HeaderInfoButton>
+                <HeaderInfoButton onClick={() => navigate('/informacoes')}>Informações</HeaderInfoButton>
             </GuiasContainer>
         </Container>
     );

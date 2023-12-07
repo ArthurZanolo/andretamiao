@@ -5,8 +5,12 @@ export const Container = styled.div`
     height: auto;
     background-color: #555555;
     box-sizing: border-box;
-    
+    display: flex;
+    flex-direction: column; // ou row, dependendo da orientação que você deseja
+    align-items: center;
+    justify-content: center;
 `;
+
 
 export const ModalCloseButton = styled.button`
     color: #fff;
@@ -42,6 +46,12 @@ export const CardsSubContainer = styled.div`
     justify-self: center; 
     margin: 0 auto;
     background-color: #555555;
+
+    @media (max-width: 768px) {
+    width: 90%;
+    min-height: auto;
+  }
+    
 `;
 
 
@@ -51,6 +61,10 @@ export const ServiceMainName = styled.div`
     font-weight: bold;
     color: #fff;
     justify-self: center;
+
+    @media (max-width: 768px) {
+    font-size: 36px;
+  }
 `;
 
 export const ServiceTitle = styled.div`
@@ -67,6 +81,13 @@ export const ServiceTitle = styled.div`
     &:hover {
         color: red;
     }
+
+    @media (max-width: 768px) {
+        font-size: 26px;
+        width: 100%;
+        margin-top: 5%;
+        white-space: normal;
+  }
 `;
 
 export const ServiceDescription = styled.div`
@@ -74,6 +95,11 @@ export const ServiceDescription = styled.div`
     color: #fff;
     margin-top: .5%;
     font-weight: bold;
+
+    @media (max-width: 768px) {
+    font-size: 22px;
+    margin-top: 2%;
+  }
 `;
 
 export const CivelContainer = styled.div`

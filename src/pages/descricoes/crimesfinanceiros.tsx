@@ -7,44 +7,46 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Crimes Financeiros</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A atuação jurídica na área de "Crimes Financeiros" desempenha um papel crucial na defesa dos acusados contra alegações relacionadas a atividades ilícitas no contexto financeiro. Advogados especializados nessa área oferecem representação legal para garantir que os direitos dos acusados sejam preservados durante investigações e processos judiciais, enquanto trabalham para desafiar as alegações do Ministério Público e da acusação.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Abrangência dos Crimes Financeiros:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Inclui uma variedade de atividades ilegais relacionadas a finanças, como fraude, lavagem de dinheiro, evasão fiscal, corrupção, suborno e outros delitos que afetam o sistema financeiro.
+Assessoria Durante Investigações:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Advogados oferecem orientação legal desde as fases iniciais das investigações, assegurando que os direitos dos acusados sejam respeitados durante interrogatórios, buscas e apreensões, e coleta de evidências.
+Defesa em Processos Judiciais:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Representam os acusados em todas as fases do processo judicial, desde audiências preliminares até julgamentos, apresentando argumentos legais robustos para contestar as alegações feitas pela acusação.
+Proteção dos Direitos Constitucionais:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Garantem que os acusados tenham seus direitos constitucionais preservados, incluindo o direito à defesa, o direito contra a autoincriminação e o direito a um julgamento justo.
+Análise de Provas e Documentação:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Realizam análise detalhada das provas apresentadas pela acusação, questionando a legalidade da coleta de evidências, buscando inconsistências e apresentando argumentos para sua exclusão se necessário.
+Negociação de Acordos:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Em alguns casos, advogados buscam negociar acordos em nome dos acusados, buscando redução de penas ou condições mais favoráveis em troca de cooperação ou admissão de culpa.
+Recursos e Revisões de Sentença:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Em casos de condenação, oferecem assistência na apresentação de recursos e revisões de sentença para contestar decisões judiciais desfavoráveis.
+Objetivos do Serviço:
+
+Presunção de Inocência:
+
+Assegurar que o princípio da presunção de inocência seja respeitado, colocando o ônus da prova sobre a acusação.
+Defesa Agressiva e Estratégica:
+
+Desenvolver estratégias defensivas vigorosas para contestar as alegações da acusação, com foco na absolvição ou em minimizar as penalidades.
+Proteção dos Direitos Humanos:
+
+Preservar os direitos humanos dos acusados, independentemente da natureza das acusações, evitando tratamento desumano ou degradante.
+Conformidade Legal:
+
+Assegurar que todos os procedimentos legais sejam seguidos rigorosamente, buscando anular processos que violem direitos fundamentais.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

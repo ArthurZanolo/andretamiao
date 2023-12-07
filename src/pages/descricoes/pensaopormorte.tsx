@@ -3,48 +3,55 @@ import Footer from "../../footer/footer"
 import { CardsSubContainer, Container,  } from "../informacoes/informacoesstyles"
 import { ServiceDescription2 } from "./styles";
 
-    function AcoesFabricante (){
+    function PensaoPorMorte (){
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Pensão por Morte</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A Pensão por Morte é um benefício previdenciário vital que visa proporcionar apoio financeiro a dependentes de segurados da Previdência Social que faleceram. Este serviço desempenha um papel crucial em oferecer segurança econômica durante períodos desafiadores, garantindo que os entes queridos do falecido tenham meios de subsistência.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Elegibilidade:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+A Pensão por Morte é geralmente destinada a cônjuges, companheiros, filhos menores de idade ou incapazes, e em algumas situações, aos pais do segurado falecido.
+Registro do Óbito:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+O primeiro passo é registrar o óbito do segurado junto aos órgãos competentes.
+Requerimento do Benefício:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Os dependentes elegíveis devem solicitar a Pensão por Morte junto à Previdência Social. Esse processo pode ser feito online ou presencialmente.
+Documentação Necessária:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+São exigidos documentos como certidão de óbito, documentos de identificação, comprovantes de vínculo familiar, entre outros.
+Análise e Aprovação:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+A Previdência Social analisa a solicitação e os documentos para verificar a elegibilidade. Se aprovado, o benefício é concedido.
+Valor do Benefício:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+O valor da Pensão por Morte pode variar dependendo de fatores como a média das contribuições do segurado falecido, o tipo de beneficiário e a quantidade de dependentes.
+Início do Pagamento:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+O pagamento do benefício geralmente tem início a partir da data do óbito, e os valores podem ser pagos mensalmente.
+Revisões Periódicas:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Em alguns casos, a Previdência Social pode revisar a Pensão por Morte periodicamente para garantir que os beneficiários ainda atendam aos requisitos de elegibilidade.
+Objetivos do Serviço:
+
+Prover Apoio Financeiro:
+
+Assegurar que os dependentes tenham um suporte financeiro contínuo após a perda do provedor principal.
+Garantir Estabilidade Econômica:
+
+Contribuir para a estabilidade econômica da família durante o difícil período de adaptação à perda.
+Cobrir Despesas Básicas:
+
+Permitir que os beneficiários cubram despesas essenciais, como moradia, alimentação, educação e cuidados médicos.
+Promover Bem-Estar Social:
+
+Contribuir para o bem-estar social, garantindo que os dependentes tenham acesso a recursos necessários para uma vida digna.
+Minimizar Impactos Financeiros:
+
+Minimizar os impactos financeiros associados à perda do provedor financeiro da família.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />
@@ -53,4 +60,4 @@ import { ServiceDescription2 } from "./styles";
         )
     }
 
-export default AcoesFabricante;
+export default PensaoPorMorte;

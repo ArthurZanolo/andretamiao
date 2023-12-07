@@ -1,13 +1,17 @@
 import { useState } from 'react';
 import AdditionalInfo from '../components/additionalinfo/additionalinfo';
 import Header from "../Header/header";
-import { AuxilioIcon, CardsContainers, CartaoIcon, CivelContrato2Icon, CivelContratoIcon, CivelFamiliaIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon, WhatsappIcon2 } from "./styles";
+import { AuxilioIcon, CardsContainers, CartaoIcon, CivelContrato2Icon, CivelContratoIcon, CivelFamiliaIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformationButton, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon } from "./styles";
 import Footer from "../footer/footer";
 import ReadMore from "../components/readmore/readmore";
+import { useNavigate } from 'react-router-dom';
 
 
 
 function Home() {
+
+    const navigate = useNavigate();
+
     const [showModal, setShowModal] = useState(false);
     const [modalContent, setModalContent] = useState('');
 
@@ -25,10 +29,6 @@ function Home() {
         setShowModal(true);
     }
 
-    const handleWhatsappClick = () => {
-        const whatsappUrl = "https://api.whatsapp.com/send?phone=5514998516478";
-        window.open(whatsappUrl, "_blank"); // Abre o link em uma nova janela/aba
-    };
 
     return (
         <Container>
@@ -37,7 +37,7 @@ function Home() {
             <InfoContainer>
                 <CustomSpan id="andre">André Tamião</CustomSpan>
                 <FotoInfo>
-                    <FotoTamiao></FotoTamiao>
+                    <FotoTamiao />
                     <TextoTamiao>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos...</TextoTamiao>
                 </FotoInfo>
             </InfoContainer>
@@ -159,8 +159,8 @@ function Home() {
                     {/* Adicione mais ServiceCard com botões Saiba Mais aqui */}
                 </CardsContainers>
                 <SaberMaisContainer>
-                    <CustomSpan>Quer saber mais?</CustomSpan>
-                    <WhatsappIcon2 onClick={handleWhatsappClick}></WhatsappIcon2>
+                    <CustomSpan>Quer saber mais? Acesse:</CustomSpan>
+                    <InformationButton onClick={() => navigate('/informacoes')}>Informações</InformationButton>
                 </SaberMaisContainer>
                 
             </ServiceContainer>

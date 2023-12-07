@@ -1,11 +1,17 @@
 import { CardsSubContainer, CivelContainer, ConsumidorContainer, Container, CriminalContainer, PrevidenciarioContainer, ServiceDescription, ServiceMainName, ServiceTitle } from "./informacoesstyles";
 import Footer from "../../footer/footer";
 import { useNavigate } from "react-router-dom";
+import { CustomSpan, SaberMaisContainer, WhatsappIcon2 } from "../../Home/styles";
 
 
 function Informacoes() {
 
     const navigate = useNavigate();
+
+    const handleWhatsappClick = () => {
+        const whatsappUrl = "https://api.whatsapp.com/send?phone=5514998516478";
+        window.open(whatsappUrl, "_blank");
+    };
 
     return (
         <Container>
@@ -71,6 +77,10 @@ function Informacoes() {
                         <ServiceDescription>Advogados especializados em direito previdenciário podem auxiliar segurados que necessitam passar por processos de reabilitação profissional oferecidos pelo INSS. Eles ajudam na compreensão dos direitos do segurado, orientam sobre as etapas do processo de reabilitação, e, se necessário, representam o segurado para garantir que ele receba o suporte e as oportunidades adequadas para retornar ao mercado de trabalho.</ServiceDescription>
                     </PrevidenciarioContainer>
                 </CardsSubContainer>
+            <SaberMaisContainer>
+                <CustomSpan>Entre em contato:</CustomSpan>
+                <WhatsappIcon2 onClick={handleWhatsappClick}></WhatsappIcon2>
+            </SaberMaisContainer>
             <Footer></Footer>
         </Container>
     )

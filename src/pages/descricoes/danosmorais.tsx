@@ -9,42 +9,45 @@ import { ServiceDescription2 } from "./styles";
                 <CardsSubContainer>
                     <AndréTamião>Ações de Indenização por Danos Morais</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    O serviço jurídico relacionado a "Danos Morais" concentra-se em casos nos quais indivíduos buscam reparação por danos psicológicos e emocionais causados por atos ilícitos de terceiros. Advogados especializados nessa área oferecem representação legal para garantir que as vítimas sejam devidamente compensadas pelos impactos negativos em sua saúde mental e bem-estar emocional.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Descrição Detalhada do Serviço:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Natureza dos Danos Morais:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Refere-se a lesões não pecuniárias, tais como angústia emocional, sofrimento mental, perda de dignidade ou reputação, causadas por atos que violem os direitos fundamentais da vítima.
+Tipos Comuns de Casos:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Inclui difamação, calúnia, injúria, violação de privacidade, assédio moral, discriminação e outros comportamentos que causem danos significativos à saúde psicológica da vítima.
+Avaliação do Dano:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Advogados conduzem uma avaliação detalhada do impacto psicológico sofrido pela vítima, muitas vezes envolvendo depoimentos de especialistas, relatórios médicos e evidências que comprovem a extensão dos danos morais.
+Provas Necessárias:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Coleta de evidências para comprovar que o ato ilícito causou danos emocionais, incluindo testemunhos, registros médicos, comunicações, registros de tratamento psicológico e outros documentos relevantes.
+Ações Judiciais:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Iniciação de ações judiciais em nome da vítima, buscando compensação financeira pelo sofrimento experimentado. Isso pode incluir pedidos de indenização por danos morais, despesas médicas relacionadas ao sofrimento e perdas financeiras associadas.
+Negociação e Resolução Extrajudicial:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Em alguns casos, advogados buscam acordos extrajudiciais para resolver o caso de forma mais rápida e eficiente, garantindo uma compensação adequada à vítima sem a necessidade de um julgamento prolongado.
+Prevenção de Danos Futuros:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Além da compensação, a busca por medidas que impeçam futuros danos morais, como retratações públicas, remoção de conteúdo difamatório e garantias de não repetição.
+Objetivos do Serviço:
+
+Restauração da Dignidade:
+
+Buscar compensação que contribua para a restauração da dignidade e bem-estar emocional da vítima.
+Conscientização e Prevenção:
+
+Contribuir para a conscientização pública sobre os impactos dos danos morais e promover medidas que previnam a ocorrência de tais atos no futuro.
+Responsabilização do Ofensor:
+
+Assegurar que os responsáveis pelos danos morais sejam responsabilizados legalmente e, quando possível, forçados a corrigir seus comportamentos.
+Garantia de Justiça:
+
+Buscar justiça para as vítimas, assegurando que sejam ouvidas e compensadas de maneira adequada diante do sofrimento infligido.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

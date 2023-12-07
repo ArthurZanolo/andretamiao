@@ -7,44 +7,57 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Violência Doméstica</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A área jurídica de violência doméstica concentra-se na defesa e proteção dos direitos das vítimas ou dos acusados em situações de abuso ou violência dentro do ambiente doméstico. Advogados especializados nesse campo desempenham um papel crucial na obtenção de ordens de proteção, representação legal durante processos judiciais e fornecem aconselhamento jurídico para buscar soluções apropriadas para as partes envolvidas.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Definição de Violência Doméstica:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Refere-se a padrões de comportamento abusivo ou violento que ocorrem em contextos familiares ou domésticos, envolvendo cônjuges, parceiros íntimos, pais, filhos e outros membros da família.
+Assistência a Vítimas:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Advogados de violência doméstica representam vítimas, buscando ordens de restrição, apoio judicial e assistência para romper ciclos de abuso.
+Defesa Legal para Acusados:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Oferecem defesa legal para aqueles acusados de violência doméstica, garantindo que seus direitos sejam protegidos e que o processo legal seja conduzido de maneira justa.
+Ordens de Proteção:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Buscam obter ordens judiciais que restrinjam o contato do agressor com a vítima, garantindo sua segurança e proteção.
+Representação Judicial:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Representam clientes em processos judiciais relacionados a violência doméstica, incluindo audiências para renovação ou modificação de ordens de proteção.
+Aconselhamento Jurídico e Emocional:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Fornecem aconselhamento jurídico e emocional, guiando as vítimas através do processo legal e ajudando-as a tomar decisões informadas.
+Mediação e Resolução de Conflitos:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Buscam soluções fora do tribunal por meio de mediação, quando apropriado, para resolver disputas familiares de maneira menos adversarial.
+Educação sobre Direitos e Recursos:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Educam as vítimas sobre seus direitos legais, opções disponíveis e recursos de apoio, capacitando-as a tomar decisões informadas sobre seu futuro.
+Intervenção em Casos de Urgência:
+
+Atuam rapidamente em casos de emergência, buscando proteger imediatamente a segurança das vítimas por meio de medidas judiciais apropriadas.
+Advocacia por Mudanças Legislativas:
+
+Participam de esforços para promover mudanças legislativas que fortaleçam as leis de proteção contra a violência doméstica e melhorem os recursos disponíveis para as vítimas.
+Objetivos do Serviço:
+
+Proteção Imediata das Vítimas:
+
+Garantir a segurança imediata das vítimas, especialmente em situações de risco elevado.
+Prevenção de Recorrência:
+
+Trabalhar para interromper ciclos de violência, proporcionando às vítimas os meios necessários para se libertarem de ambientes abusivos.
+Responsabilização e Reforma:
+
+Responsabilizar agressores pelos seus atos e, quando apropriado, buscar formas de reabilitação.
+Conscientização Pública:
+
+Promover a conscientização sobre a gravidade da violência doméstica e seus impactos na sociedade.
+Promoção de Relações Familiares Saudáveis:
+
+Contribuir para a construção de relacionamentos familiares saudáveis por meio da resolução adequada de conflitos e do apoio necessário.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

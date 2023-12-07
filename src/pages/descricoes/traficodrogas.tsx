@@ -7,44 +7,56 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Tráfico de Drogas</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A atuação jurídica na área de tráfico de drogas é uma tarefa desafiadora e crucial, envolvendo a defesa de indivíduos acusados de posse, distribuição ou transporte de substâncias controladas. Advogados especializados nessa área desempenham um papel vital ao garantir que os direitos dos acusados sejam protegidos durante todo o processo legal, que frequentemente é complexo e envolto em leis rigorosas.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Descrição Detalhada do Serviço:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Assessoria Jurídica Abrangente:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Advogados oferecem uma assessoria jurídica abrangente, orientando os clientes sobre seus direitos, o processo legal e as implicações das acusações.
+Análise das Provas e Procedimentos Policiais:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Uma análise detalhada das provas e procedimentos policiais é conduzida para identificar possíveis violações de direitos ou procedimentos inadequados.
+Desafios à Legalidade das Buscas e Apreensões:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Se houver indícios de que a busca e apreensão não foram conduzidas de maneira legal, advogados podem contestar a legalidade das provas obtidas.
+Revisões de Evidências:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Advogados revisam minuciosamente todas as evidências apresentadas pela acusação, buscando falhas ou inconsistências que possam beneficiar a defesa.
+Negociação de Penas e Acordos:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Em alguns casos, advogados negociam com as promotorias buscando acordos que possam reduzir as penas em troca de cooperação ou declarações.
+Defesa em Julgamento:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Caso o caso vá a julgamento, advogados preparam uma defesa vigorosa, apresentando argumentos legais sólidos e desafiando as alegações da acusação.
+Foco na Reabilitação:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Quando apropriado, advogados podem enfocar programas de reabilitação como parte do processo legal, buscando alternativas à prisão.
+Recursos e Apelações:
+
+Se necessário, advogados podem entrar com recursos e apelações em instâncias superiores para contestar decisões desfavoráveis.
+Objetivos do Serviço:
+
+Proteção dos Direitos Constitucionais:
+
+Garantir que todos os direitos constitucionais dos acusados sejam protegidos, incluindo o direito a uma defesa justa.
+Minimização de Penas:
+
+Buscar estratégias para minimizar as penas, considerando fatores atenuantes e circunstâncias específicas do caso.
+Revisão da Legalidade dos Procedimentos:
+
+Desafiar procedimentos policiais que possam ter violado a legalidade, incluindo buscas sem mandado apropriado.
+Fornecer Orientação e Apoio:
+
+Oferecer orientação e apoio aos acusados e suas famílias durante todo o processo legal, que pode ser emocionalmente desafiador.
+Buscar Alternativas à Prisão:
+
+Quando possível, explorar alternativas à prisão, como programas de reabilitação e tratamento.
+Alcançar Justiça Equitativa:
+
+Trabalhar para garantir que a justiça seja aplicada de maneira equitativa e imparcial, considerando todos os aspectos do caso.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

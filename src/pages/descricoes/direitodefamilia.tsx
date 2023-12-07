@@ -9,42 +9,51 @@ import { ServiceDescription2 } from "./styles";
                 <CardsSubContainer>
                     <AndréTamião>Direito de Família</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    O Direito de Família é uma área jurídica dedicada a questões relacionadas a estruturas familiares, laços afetivos e responsabilidades parentais. Advogados especializados nesse campo oferecem suporte legal em situações que envolvem casamento, divórcio, guarda de filhos, pensão alimentícia, adoção e outros assuntos que impactam diretamente as relações familiares.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Descrição Detalhada do Serviço:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Casamento e Dissolução:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Prestação de assistência legal em questões matrimoniais, incluindo a celebração de casamentos, elaboração de acordos pré-nupciais e o processo de divórcio quando as relações conjugais se desfazem.
+Divórcio e Dissolução de União Estável:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Auxílio em processos de divórcio, incluindo a divisão de bens, acordos de pensão alimentícia, guarda de filhos e resolução de conflitos relacionados à dissolução de uniões estáveis.
+Guarda de Filhos e Visitas:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Representação legal para determinar acordos de guarda de filhos, visitação e decisões sobre responsabilidades parentais. Busca pela proteção do melhor interesse da criança.
+Pensão Alimentícia:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Assistência na definição e modificação de acordos de pensão alimentícia, garantindo que as necessidades financeiras dos filhos e ex-cônjuges sejam atendidas de maneira justa.
+Adoção:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Orientação e representação legal em processos de adoção, incluindo a preparação da documentação necessária, representação em procedimentos judiciais e aconselhamento sobre as etapas envolvidas no processo de adoção legal.
+Questões de Paternidade:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Resolução de disputas relacionadas à determinação legal da paternidade, incluindo testes de DNA, acordos de custódia e direitos e responsabilidades parentais.
+Violência Doméstica e Ordens de Restrição:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Prestação de suporte legal em casos de violência doméstica, auxiliando na obtenção de ordens de proteção e representando vítimas durante processos judiciais.
+Casais do Mesmo Sexo:
+
+Abordagem especializada para casais do mesmo sexo, garantindo que seus direitos e responsabilidades sejam reconhecidos e protegidos legalmente.
+Objetivos do Serviço:
+
+Proteção dos Interesses Infantis:
+
+Assegurar que decisões judiciais e acordos respeitem o melhor interesse das crianças envolvidas.
+Justiça e Equidade em Dissoluções:
+
+Buscar soluções justas e equitativas em casos de divórcio, considerando a divisão de bens e finanças.
+Promoção de Relações Familiares Saudáveis:
+
+Fornecer orientação legal que promova relações familiares saudáveis e soluções pacíficas sempre que possível.
+Acesso à Justiça para Todos:
+
+Garantir que todas as partes envolvidas tenham acesso a representação legal, independentemente de sua situação financeira.
+Educação Jurídica:
+
+Oferecer orientação educacional para que os clientes compreendam plenamente seus direitos e opções legais em questões de família.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

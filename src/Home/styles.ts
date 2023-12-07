@@ -131,7 +131,7 @@ export const FotoTamiao = styled.div`
     color: #fff;
     background-image: url(${zap});
     margin-right: 180px;
-    border-radius: 50%;
+    border-radius: 10%;
     transition: transform .5s;
     margin-top: 40px;
     background-position: 0%, 0%;
@@ -576,10 +576,11 @@ export const SaberMaisContainer = styled.div`
     width: 260px;
     height: auto;
     padding-bottom: 40px;
-    display: grid;
     align-self: center;
     justify-self: center;
     justify-content: center;
+    display: flex;
+    flex-direction: column;
     align-items: center;
 
     @media (max-width: 768px) {
@@ -701,4 +702,30 @@ export const CartaoIcon = styled.div`
     background-repeat: no-repeat;
     background-size: contain; 
     padding-bottom: 30px;
+`;
+
+export const InformationButton = styled.button`
+    background-color: #ff0000;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 60px;
+    width: 130px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    transition: .7s;
+    &:hover {
+        background-color: #990000;
+        border: #990000;
+    }
+    
+
+    @media (max-width: 768px) {
+        width: 120px;
+        height: 40px;
+        font-size: 18px;
+}
 `;

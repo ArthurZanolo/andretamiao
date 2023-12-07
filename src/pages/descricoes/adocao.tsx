@@ -9,42 +9,46 @@ import { ServiceDescription2 } from "./styles";
                 <CardsSubContainer>
                     <AndréTamião>Adoção</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    O trabalho jurídico relacionado à adoção é uma área significativa do direito de família que se concentra nos processos legais envolvidos quando uma pessoa ou casal decide adotar uma criança. Este serviço visa facilitar e regular o processo de adoção, garantindo o bem-estar da criança, a proteção dos direitos dos pais biológicos e estabelecendo os direitos e responsabilidades legais dos pais adotivos.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Processo de Adoção:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Advogados especializados em adoção orientam os requerentes através do processo de adoção, que envolve procedimentos legais complexos e variados.
+Requisitos Legais:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Informam os candidatos sobre os requisitos legais para adoção, que podem incluir idade mínima, estabilidade financeira, avaliação do ambiente doméstico, e outros critérios determinados pelas leis locais.
+Documentação Necessária:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Auxiliam na preparação e revisão de toda a documentação necessária para o processo de adoção, garantindo que todos os requisitos legais sejam atendidos.
+Avaliação do Perfil dos Adotantes:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+Oferecem orientação sobre o perfil preferencial dos adotantes, considerando fatores como idade, estado civil, número de filhos existentes, entre outros.
+Direitos dos Pais Biológicos:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Informam sobre os direitos dos pais biológicos durante o processo, incluindo a necessidade de consentimento para a adoção e as circunstâncias em que a adoção pode ocorrer sem esse consentimento.
+Audiências Judiciais:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Representam os adotantes em audiências judiciais, garantindo que todos os procedimentos sejam seguidos de acordo com a lei.
+Adoção Internacional:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Em casos de adoção internacional, lidam com regulamentos específicos, acordos entre países e as complexidades associadas à adoção transfronteiriça.
+Guarda Permanente:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+Em alguns casos, advogados de adoção podem ajudar a obter guarda permanente ou outros arranjos legais quando a adoção completa não é imediatamente possível.
+Objetivos do Serviço:
+
+Bem-estar da Criança:
+
+O objetivo primário é garantir o bem-estar físico, emocional e psicológico da criança.
+Direitos dos Pais Adotivos:
+
+Garantir que os pais adotivos tenham seus direitos legalmente reconhecidos e protegidos.
+Legalidade e Transparência:
+
+Assegurar que todo o processo de adoção seja conduzido com legalidade e transparência.
+Famílias Fortalecidas:
+
+Contribuir para a formação de famílias sólidas e proporcionar um ambiente seguro e amoroso para crianças adotadas.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />

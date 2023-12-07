@@ -7,44 +7,50 @@ import { ServiceDescription2 } from "./styles";
         return (
             <Container>
                 <CardsSubContainer>
-                    <AndréTamião>Ações de Responsabilidade do Fabricante</AndréTamião>
+                    <AndréTamião>Revisão Criminal</AndréTamião>
                     <ServiceDescription2>
-                        O serviço de "Contencioso Civil" refere-se a uma área específica do direito que lida com litígios e disputas civis. Os litígios civis são processos legais que envolvem questões entre indivíduos, organizações ou entidades, onde o demandante busca uma solução judicial para resolver uma disputa. Aqui está uma descrição mais detalhada do serviço de Contencioso Civil:
+                    A "Revisão Criminal" é uma ferramenta legal que permite a reavaliação de casos criminais já julgados, com o objetivo de corrigir erros judiciais ou injustiças que possam ter ocorrido durante o processo. Essa área do direito é fundamental para garantir a integridade do sistema jurídico, proporcionando uma segunda análise de casos que podem ter resultado em condenações injustas.
 
-                        Descrição do Serviço:
-                        1. Natureza do Contencioso Civil:
+Descrição Detalhada do Serviço:
 
-                        Abrangência Ampla: O Contencioso Civil pode abranger uma variedade de questões legais, desde disputas contratuais até ações de responsabilidade civil e outros tipos de reclamações.
-                        2. Atuação do Advogado:
+Identificação de Novas Evidências:
 
-                        Representação Legal: Advogados especializados em Contencioso Civil atuam como representantes legais de seus clientes perante os tribunais. Eles podem representar tanto o autor quanto o réu em processos judiciais.
-                        3. Tipos Comuns de Casos:
+Advogados especializados em revisão criminal procuram por novas evidências ou informações que não foram consideradas no julgamento original.
+Análise de Argumentos Legais:
 
-                        Disputas Contratuais: Resolução de litígios relacionados a contratos, incluindo quebras de contrato, interpretação de cláusulas contratuais e execução de contratos.
-                        Responsabilidade Civil: Processos relacionados a danos causados por negligência, incluindo acidentes de trânsito, lesões pessoais e danos à propriedade.
-                        Litígios Comerciais: Questões legais entre empresas, como disputas societárias, concorrência desleal e violações de contratos comerciais.
-                        Injunções e Medidas Cautelares: Busca por ordens judiciais para impedir ações prejudiciais ou proteger direitos antes de um julgamento completo.
-                        4. Procedimentos Legais:
+Além de evidências, a revisão criminal envolve uma análise detalhada de argumentos legais que podem não ter sido adequadamente apresentados ou considerados no julgamento anterior.
+Motivos para Revisão:
 
-                        Petição Inicial: O processo muitas vezes começa com a apresentação de uma petição inicial, descrevendo os fatos e as reivindicações do autor.
-                        Descoberta de Provas: As partes envolvidas têm a oportunidade de buscar informações relevantes por meio de dispositivos legais como depoimentos, intimações e pedidos de documentos.
-                        Negociação: Antes do julgamento, pode haver tentativas de resolver o caso por meio de negociações ou métodos alternativos de resolução de disputas.
-                        Julgamento: Se não houver acordo, o caso é levado a julgamento, onde um juiz ou júri decide a questão com base nas evidências apresentadas.
-                        5. Objetivos do Cliente:
+A revisão criminal pode ser solicitada por uma variedade de motivos, incluindo a descoberta de novas testemunhas, violações dos direitos constitucionais, provas forenses inadequadas, entre outros.
+Pedido Formal ao Tribunal:
 
-                        Reparação de Danos: Para clientes que buscam reparação, o objetivo pode ser obter compensação financeira pelos danos sofridos.
-                        Defesa Legal: Para clientes que são réus, o objetivo pode ser se defender contra alegações infundadas e evitar responsabilidades injustas.
-                        6. Importância da Resolução Efetiva:
+Advogados apresentam um pedido formal ao tribunal competente, indicando as razões específicas pelas quais o caso deve ser revisto.
+Negociação com as Autoridades:
 
-                        Minimização de Impacto Financeiro: Resolver disputas de forma eficiente é crucial para minimizar os custos legais e o impacto financeiro nas partes envolvidas.
-                        Preservação de Relações Comerciais: Em disputas comerciais, a resolução efetiva é essencial para preservar relações comerciais contínuas sempre que possível.
-                        7. Evolução do Direito Civil:
+Em alguns casos, a revisão criminal pode envolver negociações com as autoridades judiciais para chegar a um acordo que corrija injustiças e evite a necessidade de um novo julgamento.
+Apresentação de Recursos:
 
-                        Adaptação às Mudanças: Advogados de Contencioso Civil estão constantemente se adaptando às mudanças nas leis e regulamentos para fornecer aconselhamento jurídico eficaz.
-                        8. Importância da Consulta Jurídica Prévia:
+Se o pedido de revisão for negado inicialmente, advogados podem entrar com recursos adicionais, buscando a reconsideração do tribunal.
+Atuação em Benefício do Réu:
 
-                        Aconselhamento Jurídico: Aconselhamento jurídico prévio é essencial para avaliar a viabilidade de um caso e desenvolver estratégias eficazes.
-                        Em resumo, o serviço de Contencioso Civil é essencial para a busca da justiça em questões legais entre partes privadas, buscando resolver disputas por meio de procedimentos judiciais eficazes e estratégias legais especializadas.
+O foco principal da revisão criminal é agir em benefício do réu, buscando corrigir quaisquer erros ou injustiças que possam ter levado à condenação.
+Colaboração com Peritos:
+
+Em casos que envolvem questões forenses, advogados podem colaborar com peritos para apresentar análises científicas que questionem ou fortaleçam as evidências apresentadas no julgamento original.
+Objetivos do Serviço:
+
+Justiça e Correção de Injustiças:
+
+Garantir que o sistema judicial promova a justiça, corrigindo possíveis erros que levaram a condenações injustas.
+Proteção dos Direitos Individuais:
+
+Assegurar que os direitos individuais dos réus sejam respeitados, incluindo o direito a um julgamento justo e imparcial.
+Restauração da Reputação:
+
+Em casos de condenações injustas, buscar a restauração da reputação do réu, minimizando os impactos negativos decorrentes da condenação anterior.
+Contribuição para a Integridade do Sistema Jurídico:
+
+Contribuir para a integridade e confiança no sistema jurídico, demonstrando a capacidade de corrigir erros quando identificados.
                     </ServiceDescription2>
                 </CardsSubContainer>
                 <Footer />
