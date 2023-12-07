@@ -1,4 +1,4 @@
-import { AndréTamião, Container, GuiasContainer, HeaderInfoButton, Logo } from "./styles";
+import { Container, GuiasContainer, HeaderInfoButton, Logo } from "./styles";
 import { useNavigate } from "react-router-dom";
 
 function HeaderInformacoes() {
