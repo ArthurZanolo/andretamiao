@@ -22,6 +22,16 @@ import civelfamilia from "../assets/civelfamilia.png"
 import civelcontrato2 from "../assets/civelcontrato2.png"
 
 
+export const ArrowsContainer = styled.div`
+    align-self: center;
+    padding-left: 50%;
+    padding-top: 35%;
+    
+    @media (max-width: 768px) {
+    display: none;
+  }
+`;
+
 export const Foto = styled.div`
     width:100%;
     height: 900px;

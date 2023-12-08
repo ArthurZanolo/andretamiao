@@ -1,16 +1,23 @@
 import { useState } from 'react';
 import AdditionalInfo from '../components/additionalinfo/additionalinfo';
 import Header from "../Header/header";
-import { AuxilioIcon, CardsContainers, CartaoIcon, CivelContrato2Icon, CivelContratoIcon, CivelFamiliaIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformationButton, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon } from "./styles";
+import { ArrowsContainer, AuxilioIcon, CardsContainers, CartaoIcon, CivelContrato2Icon, CivelContratoIcon, CivelFamiliaIcon, CivelIcon, ConsumidorIcon, Container, CriminalIcon, CustomSpan, FolhaIcon, Foto, FotoInfo, FotoTamiao, InfoContainer, InformationButton, InformativeCard1, LoasIcon, ModalCardsContainer, ModalCloseButton, ModalContainer, ModalContent, ModalContentText, PensaoIcon, PolicialIcon, PrevidenciarioIcon, RecusaIcon, SaberMaisContainer, SaibaMais, ServiceCard, ServiceContainer, ServiceName, ServiceTitle, ServiceTitleContainer, TextoTamiao, VendacasadaIcon, ViolenciaIcon } from "./styles";
 import Footer from "../footer/footer";
 import ReadMore from "../components/readmore/readmore";
 import { useNavigate } from 'react-router-dom';
+import Arrows from '../components/arrow/arrow';
 
 
 
 function Home() {
 
     const navigate = useNavigate();
+
+    const handleClick = (route: any) => {
+        navigate(route);
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
 
     const [showModal, setShowModal] = useState(false);
     const [modalContent, setModalContent] = useState('');
@@ -33,7 +40,12 @@ function Home() {
     return (
         <Container>
             <Header />
-            <Foto />
+            <Foto>
+                <ArrowsContainer>
+                    <Arrows />
+                </ArrowsContainer>
+            </Foto>
+            
             <InfoContainer>
                 <CustomSpan id="andre">André Tamião</CustomSpan>
                 <FotoInfo>
@@ -160,7 +172,7 @@ function Home() {
                 </CardsContainers>
                 <SaberMaisContainer>
                     <CustomSpan>Quer saber mais? Acesse:</CustomSpan>
-                    <InformationButton onClick={() => navigate('/informacoes')}>Informações</InformationButton>
+                    <InformationButton onClick={() => handleClick('/informacoes')}>Informações</InformationButton>
                 </SaberMaisContainer>
                 
             </ServiceContainer>
